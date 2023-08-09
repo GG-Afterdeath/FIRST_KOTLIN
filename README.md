@@ -1,5 +1,5 @@
 ---- KOTLIN ----
 
-Ejercicio de Kotlin en el cual se está emulando un app de mensajería
+Kotlin exercise in which, we emulate a messagery app
 
-esta versión cuneta con: nuevas Shapes en las imagenes y datos quemados con más sabor
+This version brings: new images shapes and tranlated data samples
